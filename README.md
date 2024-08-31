@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Sistemas para internet na FATEC São Roque.
+- 🎓 Estudando Sistemas para Internet na FATEC São Roque.
 - 💼 Trabalhando como Desenvolvedor de Software .NET na Stallos Tecnologia.
 - 🌱 Aprendendo mais sobre .NET, Angular, SQL Server e C#.
 
